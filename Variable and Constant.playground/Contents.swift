@@ -18,3 +18,9 @@ intNumber = 456
 
 //การประกาศตัวแปรที่มีการระบุ... Explicit
 let myConstant1: Int = 123
+
+//display on console
+print(intNumber)    //display only
+print("Value integer is \(intNumber)")      //display string and integer
+
+
